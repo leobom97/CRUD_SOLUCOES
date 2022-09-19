@@ -14,3 +14,6 @@ export const environment = {
  * on performance if an error is thrown.
  */
 // import 'zone.js/plugins/zone-error';  // Included with Angular CLI.
+export const API_PATH = "https://reqres.in/api/users";
+/* Não é uma boa prática colocar a url da api diretamente no serviço,
+por conta disso a url foi colocada aqui nas variáveis de ambiente */

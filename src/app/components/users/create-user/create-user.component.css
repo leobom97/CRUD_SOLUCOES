@@ -1,0 +1,14 @@
+form{
+    display: flex;
+    flex-direction: column;
+}
+
+button{
+    margin-top: 20px;
+    margin-right: 15px;
+}
+
+thead {
+    background-color: #1B1E23;
+    color: #fff;
+}

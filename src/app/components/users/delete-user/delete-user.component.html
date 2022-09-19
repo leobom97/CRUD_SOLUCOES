@@ -1,0 +1,20 @@
+<mat-card>
+    <mat-card-title>Deletar Usuário</mat-card-title>
+    <form *ngIf="user">
+        <mat-form-field>
+            <input matInput placeholder="Digite o nome do Usuário" name="name" [value]="user.first_name" disabled>
+        </mat-form-field><br>
+        <mat-form-field>
+            <input matInput placeholder="Informe sua profissão" [value]="user.last_name" name="job" disabled>
+        </mat-form-field>
+    </form>
+
+    <button mat-raised-button  color="primary" (click)="deletar()">
+        Deletar
+    </button>
+    &nbsp;
+    <button mat-raised-button  color="primary" (click)="cancelar()">
+        Cancelar
+    </button>
+
+</mat-card>
