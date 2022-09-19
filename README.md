@@ -4,6 +4,7 @@ CRUD COMPLETO UTILIZANDO https://reqres.in/
 # 💬 Descrição
 APLICAÇÃO ANGULAR QUE SIMULA UM CRUD COM TODAS AS SUAS OPERAÇÕES UTILIZANDO FAKE DATA
 
+#**Obs: O serviço https://reqres.in/ apenas simula as oprações de CRUD, e não as excuta de verdade**
 
 # ☣ Testando
 
