@@ -1,27 +1,44 @@
-# CRUDSOLUCOES
+# CRUD_SOLUÇÕES
+CRUD COMPLETO UTILIZANDO https://reqres.in/
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.0.3.
+# 💬 Descrição
+APLICAÇÃO ANGULAR QUE SIMULA UM CRUD COM TODAS AS SUAS OPERAÇÕES UTILIZANDO FAKE DATA
 
-## Development server
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+# ☣ Testando
 
-## Code scaffolding
+1. Para rodar a aplicação angular, com o seu o terminal, vá até a pasta onde se encontra o projeto e digite o comando: `ng serve -o`
+2. No navegador de sua preferência visite http://localhost:4200
+3. Clinque nos links presentes no menu lateral para a navegação
+4. Clique nos Botões e preencha os formulários para realizar as oprações de CRUD
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
-## Build
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+**UTILIZE OS LINKS NO MENU LATERAL PARA A NAVEGAÇÃO**
 
-## Running unit tests
+![CRUD](https://user-images.githubusercontent.com/74381225/191076834-93b10f32-270c-433c-8214-943490295a4d.png)
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
 
-## Running end-to-end tests
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
 
-## Further help
+**TODAS AS ATIVIDADES NETWORKS FORAM EXECUTADAS E REGISTRADAS**
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+![GET](https://user-images.githubusercontent.com/74381225/191077523-a86e7a5e-6adf-4190-8d17-863cb1bf4cd2.png)
+
+**Método GET**
+
+
+![POST](https://user-images.githubusercontent.com/74381225/191078131-898e0e93-ec94-492e-be85-6fdb15c8a6df.png)
+
+**Método POST**
+
+![PUT](https://user-images.githubusercontent.com/74381225/191078265-a0ea4538-d3c0-48b5-847e-bd906e76b2ad.png)
+
+**Método PUT**
+
+![DELETE](https://user-images.githubusercontent.com/74381225/191078320-829a2524-384b-426b-89b7-d6a4edf86811.png)
+
+**Método DELETE**
+
+
+
